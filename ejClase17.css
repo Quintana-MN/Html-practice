@@ -1,0 +1,31 @@
+body {
+    background: linear-gradient(100deg, orange, red);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:  20px;
+    text-align: center;
+    margin: 250px;
+}
+h1 {
+    text-transform: capitalize;
+
+}
+.container label {
+    border-radius: 30px;
+}
+button {
+border-radius: 30px;
+background-color: yellow;
+text-transform: uppercase;
+width: 70px;
+height: 35px;
+text-transform: uppercase;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-weight: bold;
+}
+#search {
+    height: 30px;
+    width: 220px;
+}
+.container label {
+    font-weight: bold;
+}

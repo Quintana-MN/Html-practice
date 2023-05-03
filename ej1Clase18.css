@@ -18,8 +18,8 @@ body {
 
 }
 .box {
-    width: 200px;
-    height: 200px;
+    width: 100px;
+    height: 100px;
     float: left;
     text-align: center;
     line-height: 100px;
@@ -31,22 +31,21 @@ body {
 }
 .one {
     background-color: burlywood;
-   top: 4rem;
-   left: 10rem;
- 
+    left: 280px;
+    top: 5rem;
 }
-.two {
+.two { 
 background-color: burlywood;
-top: 4rem;
-left: 45rem;
+left: 760px;
+top: 5rem;
 }
 .three {
-    background-color: burlywood;
-    top: 24rem;
-    right: 15rem;
+   background-color: burlywood;
+   top: 30rem;
+   left: 5rem;
 }
 .four {
-    background-color: burlywood;
-    top: 24rem;
-    left: 20rem;
+   background-color: burlywood;
+   left: 35rem;
+   top: 30rem;
 }

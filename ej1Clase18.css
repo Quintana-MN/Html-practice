@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(145, 45, 83);
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.container {
+    width: 1280px;
+    height: 650px;
+    border: 3px solid cadetblue;
+    position: relative;
+}
+.box {
+    width: 200px;
+    height: 200px;
+    float: left;
+    text-align: center;
+    line-height: 200px;
+    font-size: 3rem;
+    font-weight: bold;
+    color: red;
+    position: relative;
+}
+.one {
+    background-color: burlywood;
+   top: 4rem;
+   left: 10rem;
+}
+.two {
+background-color: burlywood;
+top: 4rem;
+left: 45rem;
+}
+.three {
+    background-color: burlywood;
+    top: 24rem;
+    right: 15rem;
+}
+.four {
+    background-color: burlywood;
+    top: 24rem;
+    left: 20rem;
+}
